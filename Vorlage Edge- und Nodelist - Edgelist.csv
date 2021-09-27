@@ -1,0 +1,16 @@
+from,to,weight,relationship
+R,T,3,1
+R,D,1,2
+R,P,1,2
+T,P,1,2
+T,D,1,2
+T,R,3,1
+D,M,3,1
+D,P,1,2
+D,R,1,2
+D,T,1,2
+P,I,3,1
+P,T,1,2
+P,R,1,2
+P,D,1,2
+I,P,3,3
